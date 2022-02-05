@@ -10,41 +10,529 @@ Reading assignments for this courses used to include several readings from the 
 
 Freeman, Scott. _Biological Science_. Upper Saddle River, NJ: Prentice Hall, 2002. ISBN: 9780130819239.
 
-| LEC # | TOPICS | READINGS |
-| --- | --- | --- |
-| 1 | Introduction | Freeman. Chapter 1, pp. 1-15. |
-| 2 | Biochemistry I | Lecture Handout: Biochemistry I-III ([PDF]({{< baseurl >}}/resources/biochem1_3)) |
-| 3 | Biochemistry II | &nbsp; |
-| 4 | Biochemistry III |  {{< br >}}{{< br >}} Freeman. Chapter 4, pp. 71-77. {{< br >}}{{< br >}} Lecture Handout: Luria Experiment ([PDF]({{< baseurl >}}/resources/lec4_luria_exp)) {{< br >}}{{< br >}}  |
-| 5 | Biochemistry IV | Lecture Handout: Biochemistry III and IV ([PDF]({{< baseurl >}}/resources/l5_bioche_deltag)) |
-| 6 | Biochemistry V |  {{< br >}}{{< br >}} Freeman. Chapter 6. {{< br >}}{{< br >}} Lecture Handout: Biochemistry V-VI ([PDF]({{< baseurl >}}/resources/biochem5_6)) {{< br >}}{{< br >}}  |
-| 7 | Biochemistry VI | Freeman. Chapter 7. |
-| 8 |  {{< br >}}{{< br >}} Biochemistry VI (cont.) {{< br >}}{{< br >}} DNA as Genetic Material {{< br >}}{{< br >}}  | Freeman. Chapter 11, pp. 217-222. |
-| 9 | Molecular Biology I | Freeman. Chapter 3 and 12, pp. 59-61, including Box and 232-234. |
-| 10 |  {{< br >}}{{< br >}} Molecular Biology II {{< br >}}{{< br >}} Process of Science {{< br >}}{{< br >}}  | Freeman. Chapter 12, pp. 234-249. |
-| 11 | Molecular Biology III | Freeman. Chapter 13 and 15, pp. 252-259 and 307-309. |
-| 12 | Molecular Biology IV | Freeman. Chapter 13 and 11, pp. 259-271 and Box 11.1. |
-| 13 | Molecular Biology IV (cont.)  {{< br >}}  {{< br >}}Gene Regulation I | Freeman. Chapter 14, pp. 274-289. |
-| 14 | Gene Regulation II |  {{< br >}}{{< br >}} Freeman. Chapter 11, pp 217-229. {{< br >}}{{< br >}} Lecture Handout: Biochemical Genetics ([PDF]({{< baseurl >}}/resources/l14_bioche_genet)) {{< br >}}{{< br >}}  |
-| 15 | Bacterial Genetics | Freeman. Chapter 9 and 14, Box 9.3 and Figure 14.6. |
-| 16 | The Biosphere |  {{< br >}}{{< br >}} Freeman. Chapter 3, pp. 40-67. {{< br >}}{{< br >}} Lecture Handout: The Biosphere and Carbon and Energy Metabolism ([PDF]({{< baseurl >}}/resources/l16_17_carb_ener)) {{< br >}}{{< br >}}  |
-| 17 | Carbon and Energy Metabolism |  {{< br >}}{{< br >}} Freeman. Chapter 25, pp. 484-495. {{< br >}}{{< br >}} Kasting, James F., and J. L. Siefert. "Life and the Evolution of Earth's Atmosphere." _Science_ 296, no. 5570 (May 10, 2002): 1066-1068. {{< br >}}{{< br >}} Von Dover, C. L., et al. "Evolution and Biogeography of Deep-Sea Vent and Seep Invertebrates." _Science_ 295, no. 5558 (February 15, 2002): 1253-1257. {{< br >}}{{< br >}} Lecture Handout: Redox Chemistry Handout ([PDF]({{< baseurl >}}/resources/l17_redox_handou)) {{< br >}}{{< br >}}  |
-| 18 | Productivity and Food Webs |  {{< br >}}{{< br >}} Freeman. Chapter 51, pp. 989-995. {{< br >}}{{< br >}} Broad, William J. "Too Rich a Soil: Scientists Find the Flaw That Undid the Biosphere." _New York Times (1857-Current file), ProQuest Historical Newspapers The New York Times_ (Oct 5, 1993): C1. {{< br >}}{{< br >}} Lecture Handout: Productivity ([PDF]({{< baseurl >}}/resources/l18_productivity)) {{< br >}}{{< br >}}  |
-| 19 | Regulation of Productivity | Mullineaux, Conrad W. "The Plankton and the Planet." _Science_ 283, no. 5403 (Februrary 5, 1999): 801-802. |
-| 20 | Limiting Factors and Biogeochemical Cycles |  {{< br >}}{{< br >}} Freeman. Chapter 51, pp 995-1001. {{< br >}}{{< br >}} Vitousek, Peter M., Harold A. Mooney, Jane Lubchenco, and Jerry M. Melillo. "Human Domination of Earth's Ecosystems." _Science_ 277, no. 5325 (1997): 494-499. {{< br >}}{{< br >}}  |
-| 21 | Mendelian Genetics | Freeman. Chapter 10, pp. 194-201. |
-| 22 | Mitosis and Meiosis | Freeman. Chapter 8 and 9, pp. 155-161. |
-| 23 | Diploid Genetics | Freeman. Chapter 10, pp. 201-216. |
-| 24 | Recombinant DNA I | Freeman. Chapter 15 and 17, Box 15.1 and pp. 335-338. |
-| 25 | Recombinant DNA II | Freeman. Chapter 17, 12, and 47, pp. 338-350, 240-242, Figures 47.2 and 47.3. |
-| 26 | Recombinant DNA III | Freeman. Chapter 18, pp. 364-365 and 367. (Essay) |
-| 27 | Recombinant DNA III (cont.)  {{< br >}}  {{< br >}}Immunology I | Freeman. Chapter 46, pp. 891-903. |
-| 28 | Immunology II | Freeman. Chapter 46, pp. 903-911. |
-| 29 | Population Growth I | Freeman. Chapter 48. |
-| 30 | Population Growth II | Palumbi, S. R. "Humans as the World's Greatest Evolutionary Force." _Science_ 293, no. 5536 (September 7, 2001): 1786-1790. |
-| 31 | Population Genetics and Evolution | Freeman. Chapter 22, pp. 429-445. |
-| 32 | Molecular Evolution | Lecture Handout: Molecular Evolution |
-| 33 | Communities I | Freeman. Chapter 49. |
-| 34 | Communities II |  {{< br >}}{{< br >}} Freeman. Chapter 52, section 50.3. {{< br >}}{{< br >}} Wade, Nicholas. "Leapin' Evolution Is Found in Lizards," _New York Times,_ May 1, 1997. {{< br >}}{{< br >}} Schultz, Ted R. "Ants, Plants, and Antibiotics." _Nature_ 398, no. 6730 (April 29, 1999): 747-748. {{< br >}}{{< br >}} Grutter, Alexandra S. "Cleaner Fish Really Do Clean." _Nature_ 398, no. 6729 (April 22, 1999): 672-673. {{< br >}}{{< br >}} Ahlund, M., and M. Andersson. "Brood Parasitism: Female Ducks Can Double Their Reproduction." _Nature_ 414, no. 6864 (December 6, 2001): 600-601. {{< br >}}{{< br >}}  |
-| 35 | Communities III | Freeman. Chapter 52, section 50.2. |
-| 36 | Ecological Applications | Freeman. Chapter 52.
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+LEC #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+READINGS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction
+{{< tdclose >}}
+{{< tdopen >}}
+Freeman. Chapter 1, pp. 1-15.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Biochemistry I
+{{< tdclose >}}
+{{< tdopen >}}
+Lecture Handout: Biochemistry I-III ([PDF]({{< baseurl >}}/resources/biochem1_3))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Biochemistry II
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Biochemistry III
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Freeman. Chapter 4, pp. 71-77.
+
+Lecture Handout: Luria Experiment ([PDF]({{< baseurl >}}/resources/lec4_luria_exp))
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Biochemistry IV
+{{< tdclose >}}
+{{< tdopen >}}
+Lecture Handout: Biochemistry III and IV ([PDF]({{< baseurl >}}/resources/l5_bioche_deltag))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Biochemistry V
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Freeman. Chapter 6.
+
+Lecture Handout: Biochemistry V-VI ([PDF]({{< baseurl >}}/resources/biochem5_6))
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Biochemistry VI
+{{< tdclose >}}
+{{< tdopen >}}
+Freeman. Chapter 7.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Biochemistry VI (cont.)
+
+DNA as Genetic Material
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Freeman. Chapter 11, pp. 217-222.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Molecular Biology I
+{{< tdclose >}}
+{{< tdopen >}}
+Freeman. Chapter 3 and 12, pp. 59-61, including Box and 232-234.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Molecular Biology II
+
+Process of Science
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Freeman. Chapter 12, pp. 234-249.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Molecular Biology III
+{{< tdclose >}}
+{{< tdopen >}}
+Freeman. Chapter 13 and 15, pp. 252-259 and 307-309.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Molecular Biology IV
+{{< tdclose >}}
+{{< tdopen >}}
+Freeman. Chapter 13 and 11, pp. 259-271 and Box 11.1.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Molecular Biology IV (cont.)  
+  
+Gene Regulation I
+{{< tdclose >}}
+{{< tdopen >}}
+Freeman. Chapter 14, pp. 274-289.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Gene Regulation II
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Freeman. Chapter 11, pp 217-229.
+
+Lecture Handout: Biochemical Genetics ([PDF]({{< baseurl >}}/resources/l14_bioche_genet))
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+Bacterial Genetics
+{{< tdclose >}}
+{{< tdopen >}}
+Freeman. Chapter 9 and 14, Box 9.3 and Figure 14.6.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+The Biosphere
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Freeman. Chapter 3, pp. 40-67.
+
+Lecture Handout: The Biosphere and Carbon and Energy Metabolism ([PDF]({{< baseurl >}}/resources/l16_17_carb_ener))
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+Carbon and Energy Metabolism
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Freeman. Chapter 25, pp. 484-495.
+
+Kasting, James F., and J. L. Siefert. "Life and the Evolution of Earth's Atmosphere." _Science_ 296, no. 5570 (May 10, 2002): 1066-1068.
+
+Von Dover, C. L., et al. "Evolution and Biogeography of Deep-Sea Vent and Seep Invertebrates." _Science_ 295, no. 5558 (February 15, 2002): 1253-1257.
+
+Lecture Handout: Redox Chemistry Handout ([PDF]({{< baseurl >}}/resources/l17_redox_handou))
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+Productivity and Food Webs
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Freeman. Chapter 51, pp. 989-995.
+
+Broad, William J. "Too Rich a Soil: Scientists Find the Flaw That Undid the Biosphere." _New York Times (1857-Current file), ProQuest Historical Newspapers The New York Times_ (Oct 5, 1993): C1.
+
+Lecture Handout: Productivity ([PDF]({{< baseurl >}}/resources/l18_productivity))
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+Regulation of Productivity
+{{< tdclose >}}
+{{< tdopen >}}
+Mullineaux, Conrad W. "The Plankton and the Planet." _Science_ 283, no. 5403 (Februrary 5, 1999): 801-802.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+Limiting Factors and Biogeochemical Cycles
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Freeman. Chapter 51, pp 995-1001.
+
+Vitousek, Peter M., Harold A. Mooney, Jane Lubchenco, and Jerry M. Melillo. "Human Domination of Earth's Ecosystems." _Science_ 277, no. 5325 (1997): 494-499.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+Mendelian Genetics
+{{< tdclose >}}
+{{< tdopen >}}
+Freeman. Chapter 10, pp. 194-201.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+Mitosis and Meiosis
+{{< tdclose >}}
+{{< tdopen >}}
+Freeman. Chapter 8 and 9, pp. 155-161.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+Diploid Genetics
+{{< tdclose >}}
+{{< tdopen >}}
+Freeman. Chapter 10, pp. 201-216.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+Recombinant DNA I
+{{< tdclose >}}
+{{< tdopen >}}
+Freeman. Chapter 15 and 17, Box 15.1 and pp. 335-338.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+25
+{{< tdclose >}}
+{{< tdopen >}}
+Recombinant DNA II
+{{< tdclose >}}
+{{< tdopen >}}
+Freeman. Chapter 17, 12, and 47, pp. 338-350, 240-242, Figures 47.2 and 47.3.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+26
+{{< tdclose >}}
+{{< tdopen >}}
+Recombinant DNA III
+{{< tdclose >}}
+{{< tdopen >}}
+Freeman. Chapter 18, pp. 364-365 and 367. (Essay)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+27
+{{< tdclose >}}
+{{< tdopen >}}
+Recombinant DNA III (cont.)  
+  
+Immunology I
+{{< tdclose >}}
+{{< tdopen >}}
+Freeman. Chapter 46, pp. 891-903.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+28
+{{< tdclose >}}
+{{< tdopen >}}
+Immunology II
+{{< tdclose >}}
+{{< tdopen >}}
+Freeman. Chapter 46, pp. 903-911.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+29
+{{< tdclose >}}
+{{< tdopen >}}
+Population Growth I
+{{< tdclose >}}
+{{< tdopen >}}
+Freeman. Chapter 48.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+30
+{{< tdclose >}}
+{{< tdopen >}}
+Population Growth II
+{{< tdclose >}}
+{{< tdopen >}}
+Palumbi, S. R. "Humans as the World's Greatest Evolutionary Force." _Science_ 293, no. 5536 (September 7, 2001): 1786-1790.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+31
+{{< tdclose >}}
+{{< tdopen >}}
+Population Genetics and Evolution
+{{< tdclose >}}
+{{< tdopen >}}
+Freeman. Chapter 22, pp. 429-445.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+32
+{{< tdclose >}}
+{{< tdopen >}}
+Molecular Evolution
+{{< tdclose >}}
+{{< tdopen >}}
+Lecture Handout: Molecular Evolution
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+33
+{{< tdclose >}}
+{{< tdopen >}}
+Communities I
+{{< tdclose >}}
+{{< tdopen >}}
+Freeman. Chapter 49.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+34
+{{< tdclose >}}
+{{< tdopen >}}
+Communities II
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Freeman. Chapter 52, section 50.3.
+
+Wade, Nicholas. "Leapin' Evolution Is Found in Lizards," _New York Times,_ May 1, 1997.
+
+Schultz, Ted R. "Ants, Plants, and Antibiotics." _Nature_ 398, no. 6730 (April 29, 1999): 747-748.
+
+Grutter, Alexandra S. "Cleaner Fish Really Do Clean." _Nature_ 398, no. 6729 (April 22, 1999): 672-673.
+
+Ahlund, M., and M. Andersson. "Brood Parasitism: Female Ducks Can Double Their Reproduction." _Nature_ 414, no. 6864 (December 6, 2001): 600-601.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+35
+{{< tdclose >}}
+{{< tdopen >}}
+Communities III
+{{< tdclose >}}
+{{< tdopen >}}
+Freeman. Chapter 52, section 50.2.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+36
+{{< tdclose >}}
+{{< tdopen >}}
+Ecological Applications
+{{< tdclose >}}
+{{< tdopen >}}
+Freeman. Chapter 52.
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

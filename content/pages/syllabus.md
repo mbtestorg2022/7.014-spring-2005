@@ -65,7 +65,45 @@ Any quizzes, exams, or problem sets that are not picked up by the end of the ter
 Grades
 ------
 
-| ACTIVITIES | PERCENTAGES | NOTES |
-| --- | --- | --- |
-| 6 of 7 Graded Problem Sets | 20% | Lowest of 7 problem set scores dropped |
-| 4 of 5 Quizzes | 80% | Lowest grade of "five" quizzes dropped (3 one-hour quizzes during term plus the 2 quiz scores derived from the Final Exam, whose score will be divided in two, each half counting as one quiz score)
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+{{< thopen >}}
+NOTES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6 of 7 Graded Problem Sets
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+{{< tdopen >}}
+Lowest of 7 problem set scores dropped
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4 of 5 Quizzes
+{{< tdclose >}}
+{{< tdopen >}}
+80%
+{{< tdclose >}}
+{{< tdopen >}}
+Lowest grade of "five" quizzes dropped (3 one-hour quizzes during term plus the 2 quiz scores derived from the Final Exam, whose score will be divided in two, each half counting as one quiz score)
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
