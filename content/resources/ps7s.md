@@ -4,6 +4,7 @@ description: This resource contains solutions on anti-viral treatment, variety o
   DNA, antibodies and HIV.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/7-014-introductory-biology-spring-2005/cbd5c0280120f1181f214ac506c3fdd3_ps7s.pdf
 file_type: application/pdf
+parent_uid: 781f14d9-0e64-919c-2532-b99b626dd3f2
 resourcetype: Document
 title: ps7s.pdf
 uid: cbd5c028-0120-f118-1f21-4ac506c3fdd3

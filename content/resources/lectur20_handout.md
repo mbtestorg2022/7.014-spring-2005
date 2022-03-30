@@ -4,6 +4,7 @@ description: This resource contains descriptions of  global nutrient cycling -bi
   cycles, the geologic cycle, water cycle and biosphere II experiment.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/7-014-introductory-biology-spring-2005/2a00e250b3f3d86c7a0e3e025a52baf8_lectur20_handout.pdf
 file_type: application/pdf
+parent_uid: 2894eb2f-6445-f646-6eaf-906bf576ca99
 resourcetype: Document
 title: lectur20_handout.pdf
 uid: 2a00e250-b3f3-d86c-7a0e-3e025a52baf8
